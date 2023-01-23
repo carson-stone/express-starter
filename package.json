@@ -1,7 +1,7 @@
 {
-  "name": "semantic",
+  "name": "express-starter",
   "version": "1.0.0",
-  "description": "User data and analytics API",
+  "description": "An express starter app with eslint and typescript.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carson-stone/semantic.git"
+    "url": "git+https://github.com/carson-stone/express-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/carson-stone/semantic/issues"
+    "url": "https://github.com/carson-stone/express-starter/issues"
   },
-  "homepage": "https://github.com/carson-stone/semantic#readme",
+  "homepage": "https://github.com/carson-stone/express-starter#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "dotenv": "^16.0.3",
